@@ -29,7 +29,7 @@ libraryDependencies += "org.playframework.silhouette" %% "play-silhouette" % "10
 libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-password-bcrypt" % "10.0.0"
 libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-persistence" % "10.0.0"
 libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-crypto-jca" % "10.0.0"
-libraryDependencies += "net.codingwell" %% "scala-guice" % "6.0.0"
+libraryDependencies += "net.codingwell" %% "scala-guice" % "7.0.0"
 
 ThisBuild / libraryDependencySchemes ++= Seq(
     "org.scala-lang.modules" %% "scala-xml" % VersionScheme.Always
