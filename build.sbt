@@ -15,7 +15,7 @@ routesGenerator := InjectedRoutesGenerator
 libraryDependencies += "org.playframework" %% "play-slick" % "6.1.0"
 libraryDependencies += "org.playframework" %% "play-slick-evolutions" % "6.1.0"
 libraryDependencies += "org.playframework" %% "play-json" % "3.0.2"
-libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.0" % "test"
+libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1" % "test"
 libraryDependencies += "com.dimafeng" %% "testcontainers-scala-scalatest" % "0.40.15" % "test"
 libraryDependencies += "com.dimafeng" %% "testcontainers-scala-postgresql" % "0.40.15" % "test"
 
