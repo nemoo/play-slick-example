@@ -25,10 +25,10 @@ libraryDependencies += guice
 libraryDependencies += ws
 libraryDependencies += caffeine
 
-libraryDependencies += "org.playframework.silhouette" %% "play-silhouette" % "10.0.0"
-libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-password-bcrypt" % "10.0.0"
-libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-persistence" % "10.0.0"
-libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-crypto-jca" % "10.0.0"
+libraryDependencies += "org.playframework.silhouette" %% "play-silhouette" % "10.0.1"
+libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-password-bcrypt" % "10.0.1"
+libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-persistence" % "10.0.1"
+libraryDependencies += "org.playframework.silhouette" %% "play-silhouette-crypto-jca" % "10.0.1"
 libraryDependencies += "net.codingwell" %% "scala-guice" % "6.0.0"
 
 ThisBuild / libraryDependencySchemes ++= Seq(
