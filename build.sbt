@@ -19,7 +19,7 @@ libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.0
 libraryDependencies += "com.dimafeng" %% "testcontainers-scala-scalatest" % "0.40.15" % "test"
 libraryDependencies += "com.dimafeng" %% "testcontainers-scala-postgresql" % "0.40.15" % "test"
 
-libraryDependencies += "org.postgresql" % "postgresql" % "42.7.0"
+libraryDependencies += "org.postgresql" % "postgresql" % "42.7.5"
 libraryDependencies += specs2 % Test
 libraryDependencies += guice
 libraryDependencies += ws
